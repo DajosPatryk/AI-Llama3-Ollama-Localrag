@@ -5,6 +5,12 @@ Link to [Llama-3-70B](https://huggingface.co/meta-llama/Meta-Llama-3-70B) ðŸ¦™ðŸ
 
 ### 1. [Install](https://github.com/ollama/ollama?tab=readme-ov-file#macos) Ollama and run model
 
+Install Ollama
+
+```shell
+curl -fsSL https://ollama.com/install.sh | sh
+```
+
 Run and pull manifest of your preferred Llama3 model
 
 ```shell
